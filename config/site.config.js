@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'globe',
+      name: 'My Homepage',
       link: 'https://zhuizi.me',
     },
   ],
